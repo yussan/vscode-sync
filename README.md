@@ -1,2 +1,2 @@
 # vscode-sync
-Cloud sync alternate for Visual Studio Extentions and Settings
+Cloud sync alternate for Visual Studio Extensions and Settings
